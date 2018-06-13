@@ -4,7 +4,7 @@
 
 > My handwriting
 
-This repository holds a key to my handwriting for the 26 letters of the alphabet both lowercase and uppercase, the 10 numbers, and 16 other special characters.
+This repository holds a key to my handwriting for the 26 letters of the alphabet both lowercase and uppercase, the 10 numerals, and 16 other special characters.
 
 ## Background
 
